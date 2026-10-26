@@ -13,8 +13,10 @@
     },
     {
       "file": "projects/uniswap/dashboard.html",
-      "bytes": 3860686,
-      "sha256": "8adbe180896207fd4506fec33e8e55cedcc5d6cf7ae3331abd8054ac85cd424f"
+      "bytes": 3860703,
+      "sha256": "61a419802c243fdd857544f59a4ef4106e172733c12e7aaf48bca696066a1558",
+      "original_archive_sha256": "8adbe180896207fd4506fec33e8e55cedcc5d6cf7ae3331abd8054ac85cd424f",
+      "presentation_change": "Hide unavailable authoring controls and remove local conversation metadata. Embedded data and runtime scripts are byte-identical."
     },
     {
       "file": "projects/uniswap/english-summary.html",
@@ -97,5 +99,5 @@
       "sha256": "cd039bd18417d0246607915de2d2c014957d9dd3d03e22e819781e277942f875"
     }
   ],
-  "note": "Read-only copy of reviewed project outputs. No new business analysis or extraction; local paths and credentials are not required to use this site."
+  "note": "Reports, data and calculations retain their archived definitions. The public dashboard is a presentation-only derivative with unavailable authoring controls hidden; original archive hash is retained."
 }
