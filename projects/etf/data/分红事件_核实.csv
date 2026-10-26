@@ -1,0 +1,4 @@
+﻿product_id,event_id,announcement_date,effective_date,original_amount_text,cash_per_unit_decimal,record_date_on_exchange,record_date_off_exchange,pay_date_on_exchange,pay_date_off_exchange,source_request_id,event_type,share_factor_decimal,unit_basis,verification_status
+510300,cash_20260119,2026-01-12,2026-01-19,每10份1.2300元,0.1230,2026-01-16,,2026-01-27,,SSE_510300_分红20260112,cash_distribution,1,per_current_fund_unit,issuer_notice_verified
+510310,cash_20251121,2025-11-19,2025-11-21,每10份0.24元,0.024,2025-11-20,2025-11-21,2025-11-26,2025-11-24,SSE_510310_分红20251119,cash_distribution,1,per_current_fund_unit,issuer_notice_verified
+510310,cash_20260120,2026-01-16,2026-01-20,每10份0.75元,0.075,2026-01-19,2026-01-20,2026-01-23,2026-01-21,SSE_510310_2026分红公告,cash_distribution,1,per_current_fund_unit,issuer_notice_verified

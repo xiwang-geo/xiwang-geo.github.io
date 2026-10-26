@@ -1,0 +1,16 @@
+﻿window_id,product_id,management_annual_rate,custody_annual_rate,known_annual_fee_total,valid_n,expected_n,other_fee_data,execution_cost,status
+W12,510300,0.0015,0.0005,0.002,242,242,not_collected,unavailable,valid
+W12,510310,0.0015,0.0005,0.002,242,242,not_collected,unavailable,valid
+W12,510320,0.0015,0.0005,0.002,242,242,not_collected,unavailable,valid
+W12,510330,0.0015,0.0005,0.002,242,242,not_collected,unavailable,valid
+W12,510350,0.0015,0.0005,0.002,242,242,not_collected,unavailable,valid
+W06,510300,0.0015,0.0005,0.002,121,121,not_collected,unavailable,valid
+W06,510310,0.0015,0.0005,0.002,121,121,not_collected,unavailable,valid
+W06,510320,0.0015,0.0005,0.002,121,121,not_collected,unavailable,valid
+W06,510330,0.0015,0.0005,0.002,121,121,not_collected,unavailable,valid
+W06,510350,0.0015,0.0005,0.002,121,121,not_collected,unavailable,valid
+W03,510300,0.0015,0.0005,0.002,60,60,not_collected,unavailable,valid
+W03,510310,0.0015,0.0005,0.002,60,60,not_collected,unavailable,valid
+W03,510320,0.0015,0.0005,0.002,60,60,not_collected,unavailable,valid
+W03,510330,0.0015,0.0005,0.002,60,60,not_collected,unavailable,valid
+W03,510350,0.0015,0.0005,0.002,60,60,not_collected,unavailable,valid

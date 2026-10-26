@@ -1,0 +1,146 @@
+{
+  "observation_window": "2025-10-24 to 2026-10-23, inclusive trading dates; seed 2025-10-23",
+  "source_database_sha256": "3ddb0968dca9813b69847fcfdd6aea397056340e64754094513b6071f0c1e301",
+  "files": [
+    {
+      "file": "projects/etf/report.pdf",
+      "bytes": 765436,
+      "sha256": "ac8f99addc40233bd957555afefd4475671e70b6c1740438e79250551e590654"
+    },
+    {
+      "file": "projects/etf/tool.html",
+      "bytes": 3735913,
+      "sha256": "a76e955db2c1b4ad67935ee49d91ed6f18fdd9c2b9a9642ed97394a8c9c58c4a",
+      "original_archive_sha256": "8cdd5019f51e5b95ec1337b49b1f0c4b2703c4cc6345a509d58853caa2fc937e",
+      "presentation_change": "Hide unavailable authoring controls in the portable public HTML; data, metric definitions and interaction logic unchanged."
+    },
+    {
+      "file": "projects/etf/english-summary.html",
+      "bytes": 3686,
+      "sha256": "337e5b5ffcae6ffe2fe675026e3605e34934be4daf1c2c73590755fe42930a6e"
+    },
+    {
+      "file": "projects/etf/data/收益风险与跟踪指标_三窗口.csv",
+      "bytes": 5471,
+      "sha256": "4f174477efd06b28221c50548f20d9608486166edd9f3454523f5a9305903a44"
+    },
+    {
+      "file": "projects/etf/data/交易活跃度与收盘折溢价_三窗口.csv",
+      "bytes": 5058,
+      "sha256": "23c96d262b586654bc9f3a883493e7b419d507009b911f53404818534e91d5e5"
+    },
+    {
+      "file": "projects/etf/data/已核持续费用_三窗口.csv",
+      "bytes": 1217,
+      "sha256": "2a0dad58134f1a5563fa5de8ffd2fc4b1c098167b75d21b7837ac338f02ef5e1"
+    },
+    {
+      "file": "projects/etf/data/稳健性_分红调整对照.csv",
+      "bytes": 1387,
+      "sha256": "a681c6a5adbc1c975abb64f26b18a58505bc6579820c6257b831a9acea2ef120"
+    },
+    {
+      "file": "projects/etf/data/稳健性_报价精度两两比较.csv",
+      "bytes": 1237,
+      "sha256": "ed440364f73458d655bf1a63fb8c8665db93f683c0fa36b93a33f77759fb8b59"
+    },
+    {
+      "file": "projects/etf/data/稳健性_报价精度P95边界.csv",
+      "bytes": 2393,
+      "sha256": "c179ec84ec69dca0be532da87485cdca6080b9d61d34c25f47aa0b4432babe26"
+    },
+    {
+      "file": "projects/etf/data/稳健性_共同高成交日期剔除.csv",
+      "bytes": 2250,
+      "sha256": "8bdf85009b9f29c29a1c5beb1b67be9058edda3ade9f9fbe061951188079493d"
+    },
+    {
+      "file": "projects/etf/data/机会矩阵_证据任务与功能.csv",
+      "bytes": 1843,
+      "sha256": "a8880ac16db3d5ea6d6451e93496972b084640fc56c74a5b840c4785f866a66b"
+    },
+    {
+      "file": "projects/etf/data/分窗口_财富回撤与滚动跟踪_日序列.csv",
+      "bytes": 662815,
+      "sha256": "51b227e9700aef74b40c95222131a2d53d626be924a914abe35bed7ab653d200"
+    },
+    {
+      "file": "projects/etf/data/source.sqlite",
+      "bytes": 770048,
+      "sha256": "3ddb0968dca9813b69847fcfdd6aea397056340e64754094513b6071f0c1e301"
+    },
+    {
+      "file": "projects/etf/data/净值_全窗口及前置日.csv",
+      "bytes": 84082,
+      "sha256": "ef3bc26a376ba3912c01cfe6d4e3d8d8cacf2569cadb0302d529978231ec5c2d"
+    },
+    {
+      "file": "projects/etf/data/日行情_完整窗口及前置日.csv",
+      "bytes": 107819,
+      "sha256": "447ca8c876c9978af29ff08b1a258e08d627620fede454cba216de7a1dd6029b"
+    },
+    {
+      "file": "projects/etf/data/指数_完整窗口及前置日.csv",
+      "bytes": 38165,
+      "sha256": "28f570098530247b7f2a96722a781b80c68eaae4f2a719c0e802cc1b52f9d9ae"
+    },
+    {
+      "file": "projects/etf/data/分红事件_核实.csv",
+      "bytes": 861,
+      "sha256": "c1f53be7eb951e5f60a96c8162341e1339f4ea03c7d5270f3b8c6f745fb659b7"
+    },
+    {
+      "file": "projects/etf/data/费用生效区间_已核依据.csv",
+      "bytes": 1811,
+      "sha256": "0d88d53eb2e82e6e1b467597f3cf730b535f2c635c2715c980f31723581e2cc4"
+    },
+    {
+      "file": "projects/etf/sql/Q00-数据模型.sql",
+      "bytes": 4925,
+      "sha256": "1d7346b96306e6addf6704fecbc2bbc18195f1a80c670057653f2d021e24d6f4"
+    },
+    {
+      "file": "projects/etf/sql/Q01-正式数据质量汇总.sql",
+      "bytes": 555,
+      "sha256": "dd3620eba52073b8425f4e444aca356c5fd0b9fcaae4578c26445e6ee74a3dc7"
+    },
+    {
+      "file": "projects/etf/sql/Q02-费用区间关联检查.sql",
+      "bytes": 302,
+      "sha256": "9a37d5bbfe9995ef70b4320a8262529197dcb6db2912e4d7a204095a6c726e1c"
+    },
+    {
+      "file": "projects/etf/sql/Q03-构建产品日面板.sql",
+      "bytes": 2221,
+      "sha256": "d1d46b728f72d887288ef8f3d03189d428c4b13f03c6916c11b9a35e227c4201"
+    },
+    {
+      "file": "projects/etf/sql/Q04-独立复算财富路径.sql",
+      "bytes": 604,
+      "sha256": "fa68a8031234889c8bd321a7f1edf7dad1d2871077558a268e0b63c5a5cfaf0f"
+    },
+    {
+      "file": "projects/etf/sql/Q05-费用关联缺失与重叠.sql",
+      "bytes": 471,
+      "sha256": "a51eb22887a19439c89b1895257e4ddaeede2ffc8a00ec514c82474f7b4ce8a6"
+    },
+    {
+      "file": "projects/etf/sql/Q06-分窗口财富回撤与滚动跟踪.sql",
+      "bytes": 2705,
+      "sha256": "3ddc7af4b84ec854d64ca821b94b23aa5e485ee98866129cdb73dfe2f95c990b"
+    },
+    {
+      "file": "projects/etf/figures/08-观察窗口与跟踪偏离.png",
+      "bytes": 101737,
+      "sha256": "f514b06438da8fc23ebca3d3766f2227b28854eeb058834271da51f538c3b376"
+    },
+    {
+      "file": "projects/etf/figures/09-报价精度与折溢价比较.png",
+      "bytes": 70082,
+      "sha256": "a2b6065501290c2d393fc8d7087ba77ca5626d11d5b5715139c97a5f6e57717d"
+    }
+  ],
+  "real_participants": 0,
+  "product_effects": null,
+  "snapshot_display_only": true
+}

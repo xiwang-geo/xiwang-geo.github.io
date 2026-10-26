@@ -1,0 +1,11 @@
+﻿product_id,fee_type,valid_from,valid_to,annual_rate_decimal,announcement_date,source_request_id,verification_status
+510300,management,2024-11-22,2026-10-24,0.0015,2024-11-20,发行人_华泰柏瑞费率20241120_新浪转载,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510300,custody,2024-11-22,2026-10-24,0.0005,2024-11-20,发行人_华泰柏瑞费率20241120_新浪转载,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510310,management,2019-05-27,2026-10-24,0.0015,2019-05-24,发行人_易方达费率20190524,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510310,custody,2019-05-27,2026-10-24,0.0005,2019-05-24,发行人_易方达费率20190524,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510320,management,2025-04-16,2026-10-24,0.0015,2025-04-22,SSE_510320_上市公告书,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510320,custody,2025-04-16,2026-10-24,0.0005,2025-04-22,SSE_510320_上市公告书,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510330,management,2024-11-22,2026-10-24,0.0015,2024-11-20,CNINFO_华夏费率20241120,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510330,custody,2024-11-22,2026-10-24,0.0005,2024-11-20,CNINFO_华夏费率20241120,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510350,management,2024-02-08,2026-10-24,0.0015,2024-02-08,发行人_工银费率20240208_指定报刊,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor
+510350,custody,2024-02-08,2026-10-24,0.0005,2024-02-08,发行人_工银费率20240208_指定报刊,effective_notice_and_current_schedule_consistent; valid_to_is_scope_censor

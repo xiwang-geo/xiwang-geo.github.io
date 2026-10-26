@@ -1,0 +1,101 @@
+{
+  "source_observation_window": "[2026-07-27,2026-10-19) UTC",
+  "display_weeks": 8,
+  "pool": "0x0b1c2dcbbfa744ebd3fc17ff1a96a1e1eb4b2d69",
+  "report_sha256": "7a9ee4ba9c36a61a60d45a9527e2ec9f463dc13e974d71ff7c4b69a6de232d7b",
+  "database_sha256": "cd039bd18417d0246607915de2d2c014957d9dd3d03e22e819781e277942f875",
+  "event_rows": 15123,
+  "files": [
+    {
+      "file": "projects/uniswap/report.pdf",
+      "bytes": 396019,
+      "sha256": "7a9ee4ba9c36a61a60d45a9527e2ec9f463dc13e974d71ff7c4b69a6de232d7b"
+    },
+    {
+      "file": "projects/uniswap/dashboard.html",
+      "bytes": 3860686,
+      "sha256": "8adbe180896207fd4506fec33e8e55cedcc5d6cf7ae3331abd8054ac85cd424f"
+    },
+    {
+      "file": "projects/uniswap/english-summary.html",
+      "bytes": 5217,
+      "sha256": "ea96b66ea69662522a1886bfbe413e994401b003e0b3ca065dab205b069fb798"
+    },
+    {
+      "file": "projects/uniswap/figures/01-八周趋势分面图.png",
+      "bytes": 222489,
+      "sha256": "619cc69143209056d12aada449cafed1d99f2dde91905bb8740c91d387b9c677"
+    },
+    {
+      "file": "projects/uniswap/figures/04-首次观察地址回访热力图.png",
+      "bytes": 243149,
+      "sha256": "ec30aaaa0902a419af6897b5d0c0ff6b90105b2d31a8ddbd4a7e424d5f7fc77b"
+    },
+    {
+      "file": "projects/uniswap/figures/07-两种剔除敏感性.png",
+      "bytes": 111199,
+      "sha256": "3aac2e6cac46250de8c4f250b07b69ff478bd00d419f3c26988e870e0cde4097"
+    },
+    {
+      "file": "projects/uniswap/data/每周趋势_8周.csv",
+      "bytes": 681,
+      "sha256": "ec40b296835abebc3c8f4b25e2dd791f7fe151fe7b136ef1f093a0c2f8be1a21"
+    },
+    {
+      "file": "projects/uniswap/data/每周活动分组_8周.csv",
+      "bytes": 1704,
+      "sha256": "fb47725149eefada0f4ec5ae96ee3091d9540852420bdd19a2b8a20022feddcd"
+    },
+    {
+      "file": "projects/uniswap/data/首次观察地址回访_W0_W1_W2.csv",
+      "bytes": 916,
+      "sha256": "fe4c1231a464377bd4b249957abe40f1498669c6a2271f179b2f5c897eba52bc"
+    },
+    {
+      "file": "projects/uniswap/data/八周集中度.csv",
+      "bytes": 1769,
+      "sha256": "1603be78966d424631a04e655a66b03612d811a3d9816fcf623317a17290540a"
+    },
+    {
+      "file": "projects/uniswap/data/固定前周头部_相邻周敏感性.csv",
+      "bytes": 1997,
+      "sha256": "614851e21aae362dc8bffe6c8c85e9ae2bcb5420420cabbaa2fafb1ea742252b"
+    },
+    {
+      "file": "projects/uniswap/data/各周剔除本周头部_动态集合.csv",
+      "bytes": 1803,
+      "sha256": "70b77c051a119dd1d8d344f689c0e8f73dc6a93883e05e71c0da0e1d033a58cc"
+    },
+    {
+      "file": "projects/uniswap/sql/Q20-连续单池日周趋势.sql",
+      "bytes": 1596,
+      "sha256": "6316ef71454b8206f2edfa201f1c874d579216ac395f22a66899620bc415cf10"
+    },
+    {
+      "file": "projects/uniswap/sql/Q21-地址周首次观察与互斥分组.sql",
+      "bytes": 1595,
+      "sha256": "f26b5d45bfb0ed8daa74d7f7000414706483eaa69047a0e5ec51a852858167d3"
+    },
+    {
+      "file": "projects/uniswap/sql/Q22-首次观察地址回访队列.sql",
+      "bytes": 1374,
+      "sha256": "7fb751e9650e83681efe5ec5863c08ddc70043435b8df6526bea8edb723efbed"
+    },
+    {
+      "file": "projects/uniswap/sql/Q23-八周全部变化.sql",
+      "bytes": 1289,
+      "sha256": "fad2e3e1f636b229ca45b0deefe0bde3e8150e8744626fa8d9ec4c25c6d61aee"
+    },
+    {
+      "file": "projects/uniswap/sql/Q30-周地址集中度.sql",
+      "bytes": 772,
+      "sha256": "f3c54512a3c0ce4f6024a299cc7d7b6d2ef39754535683a45ab46f1e481bcd98"
+    },
+    {
+      "file": "projects/uniswap/data/analysis.sqlite",
+      "bytes": 13217792,
+      "sha256": "cd039bd18417d0246607915de2d2c014957d9dd3d03e22e819781e277942f875"
+    }
+  ],
+  "note": "Read-only copy of reviewed project outputs. No new business analysis or extraction; local paths and credentials are not required to use this site."
+}
