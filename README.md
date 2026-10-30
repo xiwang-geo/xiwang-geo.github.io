@@ -1,28 +1,33 @@
-# Xi Wang — Analytics Portfolio
+# Xi Wang - Research & Analytics Portfolio
 
-A bilingual, static portfolio of two source-backed data projects. Plain HTML, CSS and JavaScript; no build step, no package installation, no external font or analytics service.
+Website: https://xiwang-geo.github.io/
 
-**Live site:** https://xiwang-geo.github.io/
+## 中文
 
-## Selected work
+兼顾学术研究与求职的个人作品集，介绍水同位素水文学、海洋食物网建模，以及金融、商业与产品分析的应用项目。
 
-- **CSI 300 ETF comparison** — [中文案例](case-etf.html) · [English](case-etf-en.html) · [repository](https://github.com/xiwang-geo/csi300-etf-analysis)
-  Five same-index Shanghai-listed ETFs across three predefined windows: fees, return, risk, tracking and trading activity, plus an offline screening and comparison tool. Navy/white financial-research design.
-- **Uniswap single-pool analysis** — [中文案例](case-uniswap.html) · [English](case-uniswap-en.html) · [repository](https://github.com/xiwang-geo/uniswap-base-analysis)
-  Activity, address return and concentration in one Uniswap v3 WETH/USDC 1% pool on Base. Cream/green design.
+- index.html：个人介绍、研究方向、应用项目、教育背景与联系方式。
+- research.html：水同位素与食物网研究的问题及方法。
+- academic/content.json：中英文文案。
+- academic/site.css、academic/site.js：独立样式、语言切换与手机菜单。
+- academic/cv-zh.pdf、academic/cv-en.pdf：仅含公开邮箱的简历。
+- 原有 case-*.html 和 projects/：项目案例、报告及交互工具。
 
-## Structure
+右上角切换语言，或用 ?lang=en 打开英文。旧链接 #work、#approach、#about 保留。
 
-`index.html` overview — Chinese by default, English via `?lang=en`. `case-*.html` the four case pages. `projects/etf/` and `projects/uniswap/` reports, portable tools, English summaries, SQL, CSVs and source snapshots. `research-etf.html` redirects the earlier ETF planning URL to the completed case. `assets/` styles, scripts and figures. `.nojekyll` keeps the folder published as-is on GitHub Pages.
+本地运行 python -m http.server 8000，再打开 http://localhost:8000/。需要通过 HTTP 加载文案。
 
-## Evidence and limits
+## English
 
-ETF: five selected Shanghai-listed RMB CSI 300 ETFs; main window 2025-10-24 to 2026-10-23, with 242 daily returns and a preceding seed date. Market analysis and prototype implementation are complete; real-user effects remain untested.
+A personal portfolio connecting isotope hydrology, ecological modelling and applied analytics. Bilingual homepage and research copy live in academic/content.json. Existing case pages, reports and interactive tools retain their original paths. Public CVs use email as the contact method.
 
-Uniswap: Base WETH/USDC 1% pool, [2026-07-27, 2026-10-19) UTC; eight displayed weeks after a 28-day buffer, covering 15,123 Swap events and 2,086 origin addresses. Origins are address proxies; estimated trading-leg USD is not revenue or net inflow.
+## Assets
 
-Reports, source snapshots and result tables retain their research definitions. Checksums are in the project provenance files. The portable ETF tool hides unavailable authoring controls; the presentation-only derivative is recorded without changing calculations or archived files. Third-party data and reports retain their respective rights.
+Banner: custom image-generated illustration with an Earth, red panda and river otter; English-only greeting.
 
-## Languages
+University emblems identify educational affiliations. Guangzhou uses the red outer-ring emblem, and Yunnan its circular emblem. Original official-source assets:
 
-The overview and both case studies support Chinese and English. The homepage language toggle also changes case-study destinations. Original reports, tools and some source figures remain in Chinese, with English case narratives and executive summaries. Repository documentation has full English and Chinese versions.
+- https://www.gzhu.edu.cn/xxgk/xxxhxg.htm
+- https://www.ynu.edu.cn/xxgk/sbyd.htm
+
+Project images come from the linked analysis repositories. Research descriptions summarise experience and ongoing directions; no unpublished research datasets are included.
